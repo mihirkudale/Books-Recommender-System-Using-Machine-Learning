@@ -10,15 +10,15 @@ The purpose of a recommendation system basically is to search for content that w
 
 ### 1 ) Content Based :
 
-- Content-based systems, which use characteristic information and takes item attriubutes into consideration .
+- Content-based systems, which use characteristic information and takes item attriubutes into consideration.
 
-- Twitter , Youtube .
+- Twitter , Youtube 
 
-- Which music you are listening , what singer are you watching . Form embeddings for the features .
+- Which music you are listening , what singer are you watching . Form embeddings for the features.
 	
-- User specific actions or similar items reccomendation .
+- User specific actions or similar items reccomendation.
 	
-- It will create a vector of it .
+- It will create a vector of it.
 	
 - These systems make recommendations using a user's item and profile features. They hypothesize that if a user was interested in an item in the past, they will once again be interested in it in the future
 	
@@ -28,29 +28,29 @@ The purpose of a recommendation system basically is to search for content that w
 		
 - Collaborative filtering systems, which are based on user-item interactions.
 	
-- Clusters of users with same ratings , similar users .
+- Clusters of users with same ratings , similar users.
 	
-- Book recommendation , so use cluster mechanism .
+- Book recommendation , so use cluster mechanism.
 	
-- We take only one parameter , ratings or comments .
+- We take only one parameter , ratings or comments.
 	
-- In short, collaborative filtering systems are based on the assumption that if a user likes item A and another user likes the same item A as well as another item, item B, the first user could also be interested in the second item . 
+- In short, collaborative filtering systems are based on the assumption that if a user likes item A and another user likes the same item A as well as another item, item B, the first user could also be interested in the second item. 
 	
 - Issues are :
 
-	- User-Item nXn matrix , so computationally expensive .
+	- User-Item nXn matrix , so computationally expensive.
 
-	- Only famous items will get reccomended .
+	- Only famous items will get reccomended.
 
-	- New items might not get reccomended at all .   
+	- New items might not get reccomended at all.   
 
 ### 3 ) Hybrid Based :
 	
 - Hybrid systems, which combine both types of information with the aim of avoiding problems that are generated when working with just one kind.
 
-- Combination of both and used now a days .
+- Combination of both and used now a days.
 
-- Uses : word2vec , embedding .           
+- Uses : word2vec , embedding.           
 
 # About this project:
 
