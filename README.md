@@ -56,10 +56,6 @@ The purpose of a recommendation system basically is to search for content that w
 
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest.
 
-# Dataset has been used:
-
-* [Dataset link](https://www.kaggle.com/ra4u12/bookrecommendation)
-
 # Concept used to build the model.pkl file : NearestNeighbors
 
 1 . Load the data
